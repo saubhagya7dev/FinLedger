@@ -51,3 +51,31 @@ It is wise to diversify your investment among the various asset classes. The tec
 </aside>
 
 ---
+
+<br>
+
+## **Regulators, the guardians of capital markets**
+
+### **What is the stock market?**
+
+The stock market is where all the participants who wish to transact in shares go. Transact means to buy or sell shares in the context of stock markets. The primary purpose of the stock market is to help you facilitate your transactions. So if you want to buy shares of a company, the stock market helps you meet the seller and vice versa.
+
+**India has two stock exchanges** – 
+1. the Bombay Stock Exchange (BSE) and 
+2. the National Stock Exchange (NSE)
+
+### **The Regulator (SEBI)-**
+
+In India, the stock market regulator is called **The Securities and Exchange Board of India,** often referred to as SEBI. SEBI aims to promote the development of stock exchanges, protect the interest of retail investors, and regulate market participants’ and financial intermediaries’ activities. In general, SEBI ensures:
+
+1. The stock exchange conducts its business fairly
+2. Stockbrokers conduct their business fairly
+3. Participants don’t get involved in unfair practices
+4. Corporates don’t use the markets to benefit themselves (Satyam Computers) unduly
+5. Small investors’ interests are protected
+6. Large investors with mega cash piles should not manipulate the markets
+7. Overall development of markets
+
+---
+
+<br>
