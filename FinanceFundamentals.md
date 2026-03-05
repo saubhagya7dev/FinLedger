@@ -79,3 +79,54 @@ In India, the stock market regulator is called **The Securities and Exchange Bo
 ---
 
 <br>
+
+## **Market Intermediaries in Stock Markets explained**
+
+### **The Stock Broker  -**
+
+**A stockbroker provides you with a trading account that is used for all market-related transactions (buying and selling of financial instruments like shares)**
+
+### **Depository and Depository Participants -**
+
+A Depository is a corporate entity that holds the shares electronically in your name in your account. Your account with the depository is called the ‘DEMAT’ account.
+
+Before 1996 the share certificate was in paper format; however, post-1996, the share certificates were converted to digital form. Converting a paper format share certificate into a digital format share certificate is called **“Dematerialization"** often abbreviated as DEMAT. The Harshad Mehta scam of 1992, played a significant role in digitizing the share certificate. 
+
+A Depository is a financial intermediary that offers the Demat account service.  Think of the demat account as a digital vault for your shares. As you may have guessed, your broker’s trading account and the DEMAT account from the Depository are interlinked.
+
+- The National Securities Depository Limited (NSDL)
+- Central Depository Services (India) Limited.(CDSL)
+
+### **Banks -**
+
+Banks facilitate the fund transfer from your bank account to your trading account. Both the trading account and bank account are linked. Broker’s link these accounts after verifying your bank account.
+
+### **NSE clearing Limited and ICCL -**
+
+NSE Clearing Limited and Indian Clearing Corporation (ICCL) are wholly owned subsidiaries of the National Stock Exchange and Bombay Stock Exchange, respectively.The job of the clearing corporation is to ensure guaranteed settlement of your trades/transactions.
+
+the clearing corporation’s role is to ensure the following:
+
+- Identify the buyer and seller and match the debit and credit process
+- Ensure no defaults – The clearing corporation also ensures no defaults by either party. For instance, after selling the shares, the seller should not be able to back out, thereby defaulting in his transaction.
+
+
+## 💡 Key TAKEAWAY from this Chapter
+
+- A trading account offered by your broker
+- demat account offered by the depositary participant
+- and a Bank account offered by a bank.
+    
+     All three accounts operate electronically and are interlinked, giving you a seamless experience.
+    
+- The market ecosystem is built by a cluster of financial intermediaries, each offering services unique to the functioning of markets.
+- A stockbroker is your market access, so choose a broker that matches your requirements.
+- A stockbroker provides you with a trading account that is used for all market-related transactions (buying and selling of financial instruments like shares)
+- A Depository is a corporate entity that holds the shares electronically in your name in your account. Your account with the depository is called the ‘DEMAT’ account.
+- To open a DEMAT account with one of the depositaries, you must liaise with a Depository Participant (DP). A DP functions as an agent to the Depository
+- A clearing corporation works towards clearing and settling trades executed by you.
+</aside>
+
+---
+
+<br>
