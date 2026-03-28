@@ -508,3 +508,163 @@ Every step in the IPO sequence must happen under the SEBI guidelines. In general
 **Price Band and Cut off price ***–* A price band is a price range between which the stock gets listed. For example, if the price band is between Rs.100 and Rs.130, then the issue can list within the range. Let’s say it gets listed at 125; 125 is the cut-off price.
 
 ---
+<br>
+<br>
+
+
+
+# **Stock Market -**
+Once a company becomes publicly traded, the company is obligated to disclose all information related to the company to the public. The shares of a public limited company are traded on the stock exchanges daily.
+
+## **What is the stock market?**
+
+As we discussed earlier, the stock market is an electronic marketplace. Buyers and sellers electronically express their points of view in terms of trade.
+
+For example, consider the current situation of Infosys. When writing this, Infosys faces a management succession issue, and most of the company’s senior-level executives are resigning. The leadership vacuum is weighing down the company’s reputation heavily. As a result, the stock price dropped to Rs.3,000 from Rs.3,500.
+
+Assume there are two traders – A and B.
+
+A’s view on Infosys – The stock price will likely go down further because the company will find it challenging to find a new CEO. If A trades from his point of view, he should be a seller of the Infosys stock.
+
+However, B views the same situation differently and has a different point of view. According to her, the stock price of Infosys has overreacted to the succession issue, and soon the company will find a great leader. The stock price will eventually move up.
+
+If B trades from her point of view, she should be a buyer of the Infosys stock.
+
+So at, Rs.3000, A will be a seller, and B will be a buyer in Infosys.
+
+Now both A and B will place orders to sell and buy the stocks respectively through their respective stock brokers. The stock broker routes it to the stock exchange. The stock exchange has to ensure that these two orders are matched and that the trade is executed.
+
+## **What moves the stock?**
+
+Example - 
+
+it is 10:00 AM Infosys is trading at Rs.3000 per share. The management makes a press statement that they have found a new CEO expected to steer the company to greater heights. They are confident that the newly appointed CEO will do good things for the company.
+
+Two questions –
+
+1. How will the stock price of Infosys react to this news?
+2. If you were to place a trade on Infosys, what would it be? Would it be a buy or a sell?
+
+The answer to the first question is quite simple; the news is positive, so the stock price will increase. Infosys had a leadership issue, and the company has fixed it. When positive announcements are made, market participants tend to buy the stock at any given price, which cascades into a stock price rally.
+
+Let me illustrate this further :
+
+| Sl No | Time | Last Traded Price | What price the seller wants | What does the buyer do? | New Last Trade Price |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 10:00 | 3000 | 3002 | Buys | 3002 |
+| 02 | 10:01 | 3002 | 3006 | Buys | 3006 |
+| 03 | 10:03 | 3006 | 3011 | Buys | 3011 |
+| 04 | 10:05 | 3011 | 3016 | Buys | 3016 |
+
+Notice that the buyer is willing to pay whatever prices the seller wants; this is when the market is said to be bullish. In a bullish market, the prices tend to move up.
+
+The stock moves up because of two reasons. One, the leadership issue has been fixed, and two, there is also an expectation that the new CEO will steer the company to greater heights.
+
+## **How does the stock get traded?**
+
+You have decided to buy 200 shares of Infosys at 3030 and hold on to it for one year. How does it work? What is the exact process of buying the stock? What happens after you buy it?
+
+Systems work seamlessly to ensure your transactions go smoothly.
+
+With your decision to buy Infosys, you need to log in to your trading account (provided by your stock broker) and place an order to buy Infosys. Once you place an order, the following details are validated –
+
+1. Details of your trading account through which you intend to buy Infosys shares.
+2. The price at which you intend to buy Infosys
+3. The number of shares you intend to buy
+
+Before your broker transmits this order to the exchange, the broker has to ensure you have sufficient money to buy these shares. If yes, then this order hits the stock exchange. Once the order hits the market, the stock exchange (through their order matching algorithm) tries to find a seller who is willing to sell you 200 shares of Infosys at 3030.
+
+**Now the seller could be one person willing to sell the entire 200 shares at 3030, or it could be ten people selling 20 shares each, or two people selling 1 and 199 shares, respectively. The permutation and combination do not matter. From your perspective, all you need is 200 shares of Infosys at 3030**, and you have placed an order for the same. The stock exchange ensures the shares are available to you as long as sellers are in the market.
+
+Once the trade is executed, the shares will be electronically credited to your DEMAT account. Likewise, the shares will be electronically debited from the seller’s DEMAT account.
+
+## **What happens after you own stock?**
+
+After you buy the shares, the shares will reside in your DEMAT account. You are now a part owner of the company to the extent of your shareholding. To give you a perspective, if you own 200 shares of Infosys, you own 0.000035% of Infosys at the time of writing this chapter.
+
+By owning the shares, you are entitled to corporate benefits like dividends, stock splits, bonuses, rights issues, voting rights, etc. We will explore all these shareholder privileges at a later stage.
+
+## **A note on the holding period**
+
+The holding period is the period you intend to hold the stock. You may be surprised that the holding period could be as short as a few minutes to as long as ‘forever.’ When the legendary investor Warren Buffet was asked what his favorite holding period was, he replied ‘forever.’
+
+In the earlier example quoted in this chapter, we illustrated how Infosys stocks moved from 3000 to 3016 in 5 minutes. Well, this is not a bad return after all, for a 5 Minute holding period! If you are satisfied with it, you can close the trade and move on to find another opportunity. To remind you, this is very much possible in real markets. When things are hot, such moves are quite common.
+
+## **How to calculate returns?**
+
+Now, everything in markets boils down to one thing. Generating a reasonable rate of return! All past stock market sins are forgiven if your trade generates a good return. Returns are usually expressed in terms of annual yield. There are different kinds of returns that you need to be aware of. The following will give you a sense of what they are and how to calculate these returns.
+
+***Absolute Return*** – This is the return that your trade or investment generates in absolute terms. It helps you answer this question – I bought Infosys at 3030 and sold it at 3550. How much percentage return did I generate?
+
+The formula to calculate is – [Ending Period Value / Starting Period Value – 1]*100
+
+i.e. [3550/3030 -1] *100 - basically {[(3550-3030)/3030]*100}*
+
+= 0.1716 * 100
+
+= 17.16%
+
+A 17.6% is not a bad return at all!
+
+***Compounded Annual Growth Rate (CAGR)** –* An absolute return can be misleading if you want to compare two investments. CAGR helps you answer this question – I bought Infosys at 3030, held the stock for two years, and sold it at 3550. At what rate did my investment grow over the last two years?
+
+CAGR factors in the time component, which we had ignored when we computed the absolute return.
+
+The formula to calculate CAGR is…
+
+![CAGR](http://zerodha.com/varsity/wp-content/uploads/2014/08/CAGR.jpg)
+
+Applying this to answer the question…
+
+{[3550/3030]^(1/2) – 1} = 8.2%
+
+This means the investment grew at a rate of 8.2% for two years. As of today, the bank fixed deposit market offers 5.5% with capital protection hence, 8.2% return looks ok compared to a fixed deposit.
+
+So, always use CAGR to check returns over multiple years. Use absolute return when your time frame is for a year or lesser.
+
+What if you bought Infosys at 3030 and sold it at 3550 within six months? In that case, you have generated 17.16% in 6 months, which translates to 34.32% (17.16% * 2) for the year.
+
+So the point is if you have to compare returns, it’s best done when the return is expressed on an annualized basis.
+
+## **Where do you fit in?**
+
+Each market participant has a unique style of participating in the market. The style evolves as you progress as a participant and witness market cycles. The participation style is also defined by the risk you are willing to take in the market. Regardless of what you do, you can be categorized as a trader or investor.
+
+A trader is a person who spots an opportunity and initiates the trade with an expectation of profitably exiting the trade at the earliest given opportunity. A trader usually has a short-term view of markets.  Trader is alert and on their toes during market hours, constantly evaluating opportunities based on risk and reward. A trader is unbiased toward going long or going short. We will discuss what going long or short means at a later stage.
+
+There are different types of traders :
+
+1. **Day Trader** – A day trader initiates and closes the position during the day. He does not carry forward trading positions overnight. A day trader is risk-averse and does not like taking an overnight risk. For example – Buy 100 shares of TCS at 2212 at 9:15 AM and sell it at 2220 at 3:20 PM, making a profit of Rs.800/- in this trade. A day trader usually trades 5 to 6 stocks per day, sometimes even more.
+2. **Scalper** – A type of day trader. A scalper usually trades very large shares and holds the stock for less time to make a small but quick profit. For example – a scalper buys 10,000 shares of TCS as 2212 at 9:15 and sells it 2212.1 at 9.16, ending up making 1000/- profit in this trade. On any given day, the scalper trades multiple times during the day. As you may have noticed, a scalp trader is highly risk-averse.
+3. **Swing Trader** – A swing trader holds on to the trade for a slightly longer; the duration can run anywhere between a few days to weeks. For example – Buy 100 shares of TCS at 2212 on 12 June and sell it at 2214 on 19 June.
+
+Some of the successful traders are – George Soros, Ed Seykota, Paul Tudor, Micheal Steinhardt, Van K Tharp, Stanley Druckenmiller, and the late Rakesh Jhunjhunwala etc
+
+An investor is a person who buys a stock expecting a significant appreciation in the stock. The investor is willing to wait for the investment to evolve. The typical holding period of investors usually runs into a few years. There are two popular types of investors.
+
+1. **Growth Investors** – The objective here is to identify companies expected to grow significantly because of emerging industry and macro trends. A classic example in the Indian context would be buying Hindustan Unilever, Infosys, and Gillette India back in 1990s. These companies witnessed huge growth because of the change in the industry landscape, creating massive wealth for their shareholders.
+2. **Value Investors** – The objective here is to identify good companies irrespective of whether they are in the growth or mature phase but beaten down significantly due to the short-term market sentiment, thereby making a great value buy. An example of this in recent times is stock tanking in the Covid crash of March 2020. Due to short-term negative sentiment, almost all the good stocks were beaten down significantly around March/April 2020, only to post a V-shaped recovery in the subsequent months.
+
+A few successful investors are – Charlie Munger, Peter Lynch, Benjamin Graham, Thomas Rowe, Warren Buffett, John C Bogle, John Templeton, Mohnish Pabrai etc.
+
+So what kind of market participant would you like to be?
+
+---
+
+<aside>
+
+
+### **📌Key takeaways from this chapter :**
+
+1. A stock market is where a trader or an investor can transact (buy, sell) in shares.
+2. A stock market is a place where the buyer and seller meet electronically
+3. Different opinions make a market
+4. The stock exchange electronically facilitates the transaction of buyers and sellers.
+5. News and events move the stock prices daily.
+6. Demand-supply mismatch also makes the stock prices move
+7. When you own a stock, you get corporate privileges like bonuses, dividends, rights, etc
+8. The holding period is defined as the period during which you hold your shares
+9. Use absolute returns when the holding period is one year or less. Use CAGR to identify the growth rate over multiple years
+10. Traders and investors differ on risk-taking ability and the holding period.
+
+</aside>
