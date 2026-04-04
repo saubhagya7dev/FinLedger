@@ -764,3 +764,47 @@ While the Sensex and Nifty represent the broader markets, certain indices repres
 7. India follows the free-float market capitalization method to construct the index.
 8. There are sector-specific indices that convey the sentiment of specific sectors.
 </aside>
+<br>
+<br>
+
+# **Commonly used terminologies and Concepts in this field** -
+
+- **Bull Market (Bullish)** *–* If you expect the stock prices to go up, you are bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular period, it is referred to as a bull market. Example – The market was bullish from mid-2020 to early 2022.
+- **Bear Market (Bearish)***–* If you expect the stock prices to go down, you are bearish on the stock price. From a broader perspective, if the stock market index goes down during a particular period, it is referred to as a bear market. Example – The market was bearish from early 2008 to late 2009.
+- **Trend** *–* The term ‘trend’ usually refers to the general market direction and its associated momentum in the market. For example, if the market is declining fast, the trend is said to be bearish. If the market is trading flat with no movement, then the trend is said to be sideways.
+- **Face value of a stock** – The face value (FV) or par value indicates the nominal value of a share. The face value is important from a corporate action perspective. We will discuss corporate action in a separate chapter. Usually, when dividends, stock splits, or bonuses are announced, they are issued, keeping the face value in perspective. For example, the FV of Infosys is 5, and if they announce an annual dividend of Rs.63/-, the dividend paid is 1260%s (63 divided by 5).
+- **52-week high/low** – 52-week high is the highest price point at which a stock has traded during the last 52 weeks (which also marks a full calendar year); likewise, a 52-week low marks the lowest price point at which the stock has traded during the last 52 weeks. The 52-week high and low gives a sense of the range within which the stock trades during the year. Many traders believe that if a stock price reaches 52 weeks high, it indicates a bullish trend for the foreseeable future. Similarly, if a stock hits 52 week low, some traders believe it indicates a bearish trend for the foreseeable future.
+- **All-time high/low** – This is similar to the 52 weeks high and low, with the only difference being that the all-time high price is the highest price the stock had ever traded from when it was listed. Similarly, the all-time low price is the lowest price the stock had ever traded from when it was listed.
+- Upper and Lower Circuit – The exchange sets up a price band within which the stock can be traded on a given trading day. The highest price the stock can reach on the day is the upper circuit limit, and the lowest price is the lower circuit limit. The limit for a stock is set to 2%, 5%, 10%, or 20% based on the exchange’s selection criteria. The exchange places these restrictions to control excessive volatility when a stock reacts to certain news related to the company. The criteria (in terms of exchange restriction) changes for derivatives stocks (and index); more on that later.
+- Long Position – Long position or going long is a reference to the direction of your trade. For example, if you have bought or intend to buy Biocon shares, you are long on Biocon or planning to go long on Biocon, respectively. If you have bought the Nifty Index with an expectation that the index will trade higher, you have a long position on Nifty. You are considered bullish if you are long on a stock or an index.
+- Short Position -
+    1. When you short, you have a bearish view of the stock. You profit if the stock price goes down. After you short, if the stock price goes up, you will end up making a loss.
+    2. When you short a stock, ensure you buy the stock back the same day before the market closes unless you use derivatives to short.
+    3. Shorting a stock is easy – you select the stock you wish to short and click on sell.
+    
+    To summarize long and short positions…
+    
+    | Position | 1st Leg | 2nd Leg | Expectation | Make money when | You will lose money if |
+    | --- | --- | --- | --- | --- | --- |
+    | Long | Buy | Sell | Bullish | Stock goes up | Stock price drops |
+    | Short | Sell | Buy | Bearish | Stock goes down | Stock price goes up |
+- Square off ­– Square off is a term used to indicate that you intend to close an existing position. If you are long on a stock squaring off the position means selling the stock. Note when you close a long position, you have to sell the stock, and this sale is not considered a short position. Here you are merely closing an existing long position!
+    
+    Squaring off a position means repurchasing the stock when you are short on the stock. Remember, when you repurchase it, you are just closing an existing position, and you are not going long!
+    
+    | When you are | Square off position is |
+    | --- | --- |
+    | Long | Sell the stock |
+    | Short | Buy the stock |
+
+- Intraday position ***–*** This is a trading position you initiate with an expectation to square off the position within the same day. For example, all short positions in stocks are intraday positions.
+- OHLC ­– OHLC in stock prices refers to open, high, low, and close. We will understand more about this in the technical analysis module. For now, open is the price at which the stock opens for the day, high is the highest price at which the stock trade during the day, low is the lowest price at which the stock trades during the day, and close is the closing price of the stock. For example, the OHLC of ACC on 17th June was 1486, 1511, 1467, and 1499.
+- Volume – Volumes and their impact on stock prices are important concepts that we will explore in greater detail in the technical analysis module. Volumes represent the total transactions (buy and sell put together) for a particular stock on a particular day. For example, on 17th June, the volume on ACC was 5, 33,819 shares.
+- Market Segment – A market segment is a division within which a certain type of financial instrument is traded. Each financial instrument is characterized by its risk and reward parameters. The exchange operates in three main segments.
+    1. Capital Market (CM) – Capital market segments offer tradable securities, such as stocks and exchange-traded funds (ETFs). So if you were to buy or sell shares of a company, you are essentially operating in the capital market segment. Shorting stocks, too, comes under the capital market segment. The cash market is sometimes referred to as the spot market.
+    2. Futures and Options (FO) – Futures and Options, generally referred to as the equity derivative segment, are where leveraged products are traded. We will explore the derivative markets in greater depth in the derivatives module (Futures modules and Options Module)
+    3. Currency Derivatives (CDS) – The CDS segment is where currency pairs like USD INR, EUR INR, JPY INR are traded. The trading is via futures and options; hence it’s called the currency derivative market.
+    4. Wholesale Debt Market (WDM) – The wholesale debt market deals with fixed-income securities. Debt instruments include government securities, treasury bills, bonds issued by a public sector undertaking, corporate bonds, corporate debentures, etc.
+
+<br>
+<br>
