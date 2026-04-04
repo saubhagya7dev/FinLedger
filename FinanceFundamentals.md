@@ -668,3 +668,99 @@ So what kind of market participant would you like to be?
 10. Traders and investors differ on risk-taking ability and the holding period.
 
 </aside>
+
+<br>
+<br>
+
+
+# **Stock market index explained: Sensex, Nifty & how they work**
+
+## Introduction -
+
+**If I were to ask you to give me a real-time summary of the countries companies situation , how would you possibly do it?**
+
+it is impertant to understand that it’s gonna be tough with the INDEXES but however you have to manage it .
+
+luckily we don’t have to track all these companies individually to get a sense of How the markets are doing 
+
+This pre-packaged market sentiment indicator is called the **‘Stock market Index.’**
+
+### some important indices in INDIA -
+
+The **S&P BSE Sensex** represents the Bombay stock exchange, and **the Nifty 50** represents the National Stock exchange. Apart from these two, there is the **Nifty Bank Index** (Bank Nifty), which is quite popular. Bank Nifty represents the banking sector as a whole.
+
+S&P stands for Standard and Poor’s, a global credit rating agency. S&P has the technical expertise in constructing the index they have licensed to the BSE. Hence the index also carries the S&P tag. NSE itself maintains the indices via a related company called NSE Indices Limited.
+
+Nifty 50 consists of the most frequently traded stocks on the National Stock Exchange; we will soon discuss the methodology basis on which these indices are constructed. An ideal index gives us an updated, accurate representation of the market sentiment. The movements in the Index reflect the changing expectations of the market participants. When the index goes up, it is because the market participants think the future will be better. The index drops if the market participants perceive the future pessimistically.
+
+## Practical use Of index
+
+### Information -
+
+The index reflects the overall sentiment and trend in the market.  The index broadly represents the country’s state of the economy. A stock market index that is up indicates people are optimistic about the future. Likewise, people are pessimistic about the future when the stock market index is down.
+
+For example, the Nifty 50 value as of 21st November 2022 is 18150, but around six months ago, the Nifty 50 was at 15820. The index has moved 2300 points or about 14.75% higher in six months, indicating bullishness in the market. In other words, **market participants have been optimistic about the Indian economic future.**
+
+### BenchMarking - To provide a base standard of return and a reference point for risk.
+
+A yardstick to measure the performance is required for all the trading or investing activity people do.  Assume over the last year, you invested Rs.100,000/- and generated Rs.20,000 return to make your total corpus Rs.120,000/-. How do you think you performed? Well, on the face of it, a 20% return looks great. However, what if Nifty moved to 30% during the same year?
+
+Well, suddenly, it may seem to you that you have underperformed in the market! Usually, the objective of market participants is to outperform the Index. Now, if not for the Index, you can’t figure out how you performed in the stock market. It would be best if you had the index to benchmark the performance.
+
+### Trading -
+
+Trading on the index is probably one of the most popular uses of the index. Majority of the traders in the market trade the index. They take a broader call on the economy or general state of affairs and translate that into a trade. The trader usually takes a short-term call on the index to trade.
+
+For example, imagine this situation. At 10:30 AM, the Finance Minister is expected to deliver the budget speech. An hour before the announcement Nifty index is at 18,150 points. You expect the budget to be favorable to the nation’s economy. so to trade your point of view, you may want to but the Index at 18,150 points. After all, the index is the representation of the broader economy.
+
+### Portfolio Hedging -
+
+Investors usually build a portfolio of stocks. A typical portfolio contains 15 – 20 held for the long term. While the stocks are held from a long-term perspective, they could foresee a prolonged adverse movement in the market (ex-2008), potentially eroding the capital in the portfolio. Investors can use the index to hedge the portfolio in such a situation. We will explore this topic in a futures trading module.
+
+## Index construction Methodology
+
+the Index is a composition of many stocks from different sectors representing the economy’s state. To include a stock in the index, it should qualify for certain criteria. Once qualified as an index stock, it should continue to qualify on the stated criteria. If it fails to maintain the criteria, the stock gets replaced by another stock that qualifies the prerequisites.
+
+Based on the selection procedure, the list of stocks is populated. Each stock in the index should be assigned a certain weightage. Weightage, in simpler terms, defines how much importance a certain stock in the index gets compared to the others.  For example, if ITC Limited has a 3.85% weightage in the Nifty 50 index, it is as good as saying that 3.85% of Nifty’s movement can be attributed to ITC. You can check the weights of all index stocks [here](https://www.niftyindices.com/).
+
+The obvious question is – How do we assign weights to the stock that make up the Index?
+
+There are many ways to assign weights, but the Indian stock exchange follows a **free-float market capitalization method.** The weights are assigned based on the company’s free-float market capitalization. The larger the market capitalization, the higher the weight.
+
+Free float market capitalization is the product of the total number of shares outstanding in the market and the stock price.
+
+For example, company ABC has 100 shares outstanding in the market, and the stock price is at 50, then the free-float market cap of ABC is 100*50 = Rs.5,000.
+
+#### Some practical data of listed INDEX companies (fy2022) -
+
+| Sl No | Name of the company | Industry | The weightage (%) |
+| --- | --- | --- | --- |
+| 01 | Reliance Industries Ltd | Oil & Gas | 11.03 |
+| 02 | HDFC Bank Ltd | Bank | 8.26 |
+| 03 | ICICI Bank Ltd | Bank | 7.94 |
+| 04 | Infosys Ltd | IT | 7.06 |
+| 05 | HDFC Ltd | Housing | 5.62 |
+| 06 | TCS Ltd | IT | 4.1 |
+| 07 | ITC Ltd | FMCG | 3.85 |
+| 08 | Kotak Mahindra Bank | Bank | 3.51 |
+| 09 | L&T Ltd | Infra | 3.07 |
+| 10 | Axis Bank Ltd | Bank | 3.0 |
+
+## Sector specific indices
+
+While the Sensex and Nifty represent the broader markets, certain indices represent specific sectors. These are called sectoral indices. For example, the Bank Nifty on NSE represents the mood specific to the banking industry. The CNX IT on NSE represents the behavior of all the IT stocks in the stock markets. Both BSE and NSE have sector-specific indexes.  The construction and maintenance of these indices are similar to the other major indices.
+
+<aside>
+📌
+
+### **Key takeaways from this chapter**
+
+1. An index acts as a barometer of the whole economy.
+2. An index going up indicates that the market participants are optimistic.
+3. An index going down indicates that the market participants are pessimistic.
+4. There are two main indices in India – The BSE Sensex and NSE’s Nifty 50
+5. An index can be used for various purposes – information, benchmarking, trading and hedging.
+6. Index trading is probably the most popular use of the index.
+7. India follows the free-float market capitalization method to construct the index.
+8. There are sector-specific indices that convey the sentiment of specific sectors.
+</aside>
