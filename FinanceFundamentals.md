@@ -808,3 +808,88 @@ While the Sensex and Nifty represent the broader markets, certain indices repres
 
 <br>
 <br>
+
+# The Trading Terminal -
+
+lets learn how we can actually transact in the stock markets. There are three options available for you to place a transaction in the stock market –
+
+1. Call your stocks broker (usually on the central support number), and request to buy or sell a stock; this is called “Call & Trade.”
+2. Use a web application
+3. Use a mobile application
+
+The trading terminal is your gateway to markets. The trading terminal has many features that are useful to traders. We will explore these features as we progress through the various learning modules. At this stage, you should know how to set up a market watch, transact (buy and sell) in stocks, view the order and trade book, and understand the market depth window.
+
+**Leverage** in trading means **using borrowed money from your broker to trade a larger position than your actual capital**.
+
+### In your paragraph:
+
+- **CNC (Cash and Carry)**
+→ *No leverage*
+→ You can only buy shares **using your own money**
+→ Example: If you have ₹10,000, you can buy shares worth ₹10,000 only
+- **MIS (Margin Intraday Square-off)**
+→ *Provides leverage*
+→ Broker allows you to trade **more than your actual money**
+→ Example: If you have ₹10,000 and 5x leverage, you can trade up to ₹50,000
+
+### Simple understanding:
+
+- **Without leverage (CNC)** → Safe, limited profit/loss
+- **With leverage (MIS)** → Higher potential profit **but also higher risk**
+
+### Why MIS uses leverage:
+
+Because trades are **intraday (same day)**, brokers are willing to lend money temporarily—but they also **force close (square-off)** your position by the end of the day to reduce risk.
+
+### 1. LTP (Last Traded Price)
+
+- The **most recent price** at which the stock was bought/sold
+- Example: If the last trade happened at ₹250 → LTP = ₹250
+
+---
+
+### 2. % Change
+
+- Shows how much the stock price has **increased or decreased compared to yesterday’s closing price**
+- Formula:% Change=Previous CloseLTP - Previous Close×100
+    
+    % Change=LTP - Previous ClosePrevious Close×100\% \text{ Change} = \frac{\text{LTP - Previous Close}}{\text{Previous Close}} \times 100
+    
+- Example:
+Yesterday = ₹200, Today LTP = ₹220 → **+10%**
+
+---
+
+### 3. OHLC
+
+This gives a quick summary of price movement during the day:
+
+- **O (Open)** → Price at which the stock started trading today
+- **H (High)** → Highest price reached today
+- **L (Low)** → Lowest price reached today
+- **C (Close)** → Final price at market closing
+
+Example:
+
+O = 200, H = 220, L = 195, C = 210
+
+---
+
+### 4. Volume
+
+- Number of **shares traded during the day**
+- High volume = more activity (strong interest)
+- Low volume = less activity
+
+Example:
+
+Volume = 5,00,000 → 5 lakh shares traded
+
+---
+
+### Quick Summary:
+
+- **LTP** → Current price
+- **% Change** → Up or down vs yesterday
+- **OHLC** → Full day price movement
+- **Volume** → How many shares were traded
